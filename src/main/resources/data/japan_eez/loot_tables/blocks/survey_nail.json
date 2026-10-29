@@ -1,0 +1,19 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+          "name": "japan_eez:survey_nail",
+          "type": "minecraft:item"
+        }
+      ],
+      "rolls": 1,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ]
+    }
+  ],
+  "type": "minecraft:block"
+}

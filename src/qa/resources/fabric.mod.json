@@ -1,0 +1,1 @@
+{"schemaVersion":1,"id":"boundary_qa","version":"1.0.0","name":"Boundary QA (test only)","environment":"*","entrypoints":{"main":["io.github.miniai_saka.eez.qa.ServerQa"],"client":["io.github.miniai_saka.eez.qa.ClientQa"]},"depends":{"japan_eez":"*","fabric-api":"*"}}

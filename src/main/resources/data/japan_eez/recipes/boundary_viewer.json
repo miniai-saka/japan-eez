@@ -1,0 +1,17 @@
+{
+  "ingredients": [
+    {
+      "item": "minecraft:compass"
+    },
+    {
+      "item": "minecraft:amethyst_shard"
+    },
+    {
+      "item": "minecraft:iron_nugget"
+    }
+  ],
+  "result": {
+    "item": "japan_eez:boundary_viewer"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

@@ -1,0 +1,10 @@
+{
+  "values": [
+    "japan_eez:triangulation_point",
+    "japan_eez:benchmark",
+    "japan_eez:metal_tack",
+    "japan_eez:survey_nail",
+    "japan_eez:boundary_stake"
+  ],
+  "replace": false
+}

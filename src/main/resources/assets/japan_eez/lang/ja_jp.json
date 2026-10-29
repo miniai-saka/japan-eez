@@ -1,0 +1,10 @@
+{
+  "block.japan_eez.metal_tack": "金属鋲",
+  "category.japan_eez": "日本の境界・EEZ",
+  "block.japan_eez.survey_nail": "測量鋲",
+  "block.japan_eez.triangulation_point": "三角点",
+  "key.japan_eez.settings": "境界の表示設定",
+  "item.japan_eez.boundary_viewer": "境界確認ツール",
+  "block.japan_eez.benchmark": "水準点",
+  "block.japan_eez.boundary_stake": "境界標"
+}

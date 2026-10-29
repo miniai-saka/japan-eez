@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "id": "japan_eez",
+  "version": "${version}",
+  "name": "日本の境界・EEZ / Japan Boundaries",
+  "description": "小型測量標、領域、領海、EEZ、延長大陸棚、領空を統合表示するMod。",
+  "authors": ["miniai-saka"],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": { "main": ["io.github.miniai_saka.eez.JapanEez"], "client": ["io.github.miniai_saka.eez.client.BoundaryClient"] },
+  "depends": { "fabricloader": ">=0.15.0", "minecraft": "1.20.1", "java": ">=17", "fabric-api": "*" }
+}

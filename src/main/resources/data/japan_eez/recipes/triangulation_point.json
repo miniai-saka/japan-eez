@@ -1,0 +1,15 @@
+{
+  "ingredients": [
+    {
+      "item": "minecraft:stone"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "japan_eez:triangulation_point"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

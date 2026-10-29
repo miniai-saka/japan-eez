@@ -1,0 +1,10 @@
+{
+  "block.japan_eez.metal_tack": "Metal Tack",
+  "category.japan_eez": "Japan Boundaries / EEZ",
+  "block.japan_eez.survey_nail": "Survey Nail",
+  "block.japan_eez.triangulation_point": "Triangulation Point",
+  "key.japan_eez.settings": "Boundary Display Settings",
+  "item.japan_eez.boundary_viewer": "Boundary Viewer",
+  "block.japan_eez.benchmark": "Benchmark",
+  "block.japan_eez.boundary_stake": "Boundary Marker"
+}

@@ -1,0 +1,15 @@
+{
+  "ingredients": [
+    {
+      "item": "minecraft:stone"
+    },
+    {
+      "item": "minecraft:gold_nugget"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "japan_eez:metal_tack"
+  },
+  "type": "minecraft:crafting_shapeless"
+}
